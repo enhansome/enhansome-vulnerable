@@ -14,7 +14,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13669
+            "stars": 13670
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5827
+            "stars": 5828
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3693
+            "stars": 3694
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2021-03-11T20:02:56Z",
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1037
+            "stars": 1038
           }
         },
         {
@@ -291,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:57:23Z",
+            "last_commit": "2026-08-14T22:42:43Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 34
@@ -418,7 +418,7 @@
             "last_commit": "2026-08-09T13:50:50Z",
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6785
+            "stars": 6789
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5745
+            "stars": 5746
           }
         },
         {
@@ -550,7 +550,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13115
+            "stars": 13117
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1555
+            "stars": 1556
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1296
+            "stars": 1304
           }
         },
         {
@@ -668,7 +668,7 @@
             "last_commit": "2026-03-29T21:11:50Z",
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 514
+            "stars": 515
           }
         },
         {
@@ -682,7 +682,7 @@
             "last_commit": "2026-06-10T14:48:11Z",
             "owner": "Checkmarx",
             "repo": "capital",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-02-25T11:40:44Z",
             "owner": "Aif4thah",
             "repo": "VulnerableLightApp",
-            "stars": 60
+            "stars": 61
           }
         }
       ],
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:08:33.909Z",
+    "last_updated": "2026-08-15T17:38:06.626Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
     "enhanced_repository": "enhansome/enhansome-vulnerable",
