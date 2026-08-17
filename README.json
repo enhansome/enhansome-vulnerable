@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9279
+            "stars": 9280
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3694
+            "stars": 3698
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-22T23:27:44Z",
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -291,7 +291,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:16:22Z",
+            "last_commit": "2026-08-17T16:53:23Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 35
@@ -308,7 +308,7 @@
             "last_commit": "2026-06-10T19:40:34Z",
             "owner": "sonuoffsec",
             "repo": "DVAP",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -550,7 +550,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13117
+            "stars": 13118
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2025-09-20T10:47:24Z",
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 412
+            "stars": 413
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1556
+            "stars": 1558
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1306
+            "stars": 1307
           }
         },
         {
@@ -704,7 +704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:36:14.865Z",
+    "last_updated": "2026-08-17T17:46:45.145Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
     "enhanced_repository": "enhansome/enhansome-vulnerable",
