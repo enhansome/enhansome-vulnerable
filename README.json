@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13686
+            "stars": 13688
           }
         },
         {
@@ -444,7 +444,7 @@
             "archived": false,
             "id": 28681142,
             "language": "Python",
-            "last_commit": "2026-08-19T06:36:44Z",
+            "last_commit": "2026-08-19T14:55:05Z",
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6793
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13120
+            "stars": 13121
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1561
+            "stars": 1562
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:00:13.724Z",
+    "last_updated": "2026-08-19T17:43:37.657Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_id": 201734799,
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
