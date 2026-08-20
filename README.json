@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T21:37:50Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13688
+            "stars": 13699
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9284
+            "stars": 9285
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5830
+            "stars": 5832
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3701
+            "stars": 3702
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-22T23:27:44Z",
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1511
+            "stars": 1512
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-18T16:35:53Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T14:55:05Z",
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6793
+            "stars": 6795
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13121
+            "stars": 13123
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1308
+            "stars": 1306
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:43:37.657Z",
+    "last_updated": "2026-08-20T17:47:59.475Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_id": 201734799,
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
