@@ -12,10 +12,10 @@
             "archived": false,
             "id": 24233689,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:37:50Z",
+            "last_commit": "2026-08-21T17:13:00Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13699
+            "stars": 13704
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5832
+            "stars": 5833
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-18T16:35:53Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-19T14:55:05Z",
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6795
+            "stars": 6797
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2025-06-18T13:20:21Z",
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1371
+            "stars": 1370
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13123
+            "stars": 13125
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-05-14T19:52:37Z",
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1562
+            "stars": 1564
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:47:59.475Z",
+    "last_updated": "2026-08-21T17:47:57.086Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_id": 201734799,
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
