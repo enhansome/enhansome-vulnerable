@@ -30,7 +30,7 @@
 
 # Awesome Vulnerable with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,561 | 🐛 106 | 📅 2026-08-21
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg) <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/awesome-vulnerable)](https://github.com/kaiiyer/awesome-vulnerable/stargazers) ⭐ 1,380 | 🐛 2 | 📅 2026-06-22
@@ -54,7 +54,7 @@
 
 ## Vulnerable Web Applications
 
-* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,709 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,710 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-21 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
 * [OWASP WebGoat8](https://github.com/webgoat/webgoat) ⭐ 9,289 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-24 - OWASP Webgoat 8 is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications, is written in Java and is actively maintained.
 * [sqli-labs](https://github.com/Audi-1/sqli-labs) ⭐ 5,834 | 🐛 33 | 🌐 PHP | 📅 2023-12-11 - SQLI labs to test error based, Blind boolean based, Time based.
 * [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) ⭐ 3,704 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -189,7 +189,7 @@
 
 ## Labs
 
-* [CTFd](https://github.com/isislab/CTFd) ⭐ 6,799 | 🐛 426 | 🌐 Python | 📅 2026-08-19 - CTFs as you need them
+* [CTFd](https://github.com/isislab/CTFd) ⭐ 6,800 | 🐛 426 | 🌐 Python | 📅 2026-08-19 - CTFs as you need them
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,753 | 🐛 28 | 🌐 HTML | 📅 2026-04-16 - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 * [SmartDataCenter](https://github.com/joyent/sdc) ⭐ 1,370 | 🐛 42 | 🌐 Shell | 📅 2025-06-18 - Joyent Triton DataCenter: a cloud management platform with first class support for containers.
 * [Mellivora](https://github.com/Nakiami/mellivora) ⭐ 451 | 🐛 29 | 🌐 PHP | 📅 2023-12-21 - Mellivora is a CTF engine written in PHP
