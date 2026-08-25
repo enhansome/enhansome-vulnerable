@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9289
+            "stars": 9291
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 1118475908,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:05:34Z",
+            "last_commit": "2026-08-25T09:15:33Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 40
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13132
+            "stars": 13134
           }
         },
         {
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:35.895Z",
+    "last_updated": "2026-08-25T17:47:06.588Z",
     "original_repository": "kaiiyer/awesome-vulnerable",
     "original_repository_id": 201734799,
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
