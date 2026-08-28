@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13727
+            "stars": 13730
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9293
+            "stars": 9297
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3709
+            "stars": 3710
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-02-02T18:40:45Z",
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 382016768,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:32:25Z",
+            "last_commit": "2026-08-27T15:14:34Z",
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 74
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-25T09:15:33Z",
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5757
+            "stars": 5758
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13139
+            "stars": 13140
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2025-09-20T10:47:24Z",
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -711,7 +711,7 @@
             "archived": false,
             "id": 253220810,
             "language": "JavaScript",
-            "last_commit": "2026-03-29T21:11:50Z",
+            "last_commit": "2026-08-27T22:22:16Z",
             "owner": "snoopysecurity",
             "repo": "dvws-node",
             "stars": 516
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:13:40.261Z",
+    "last_updated": "2026-08-28T01:30:24.360Z",
     "original_repository_info": {
       "archived": false,
       "id": 201734799,
@@ -760,7 +760,7 @@
       "last_commit": "2026-06-22T17:46:43Z",
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1382
+      "stars": 1384
     },
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
     "enhanced_repository": "enhansome/enhansome-vulnerable",
