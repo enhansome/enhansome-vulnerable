@@ -12,11 +12,12 @@
             "archived": false,
             "id": 24233689,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:36:23Z",
+            "last_commit": "2026-08-28T21:14:25Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13730
-          }
+            "stars": 13734
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T09:53:59Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9297
-          }
+            "stars": 9302
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2023-12-11T17:06:16Z",
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5833
-          }
+            "stars": 5834
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3710
-          }
+            "stars": 3712
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "s4n7h0",
             "repo": "xvwa",
             "stars": 1763
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "webpwnized",
             "repo": "mutillidae",
             "stars": 1513
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "rapid7",
             "repo": "hackazon",
             "stars": 1038
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "appsecco",
             "repo": "dvna",
             "stars": 779
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Yavuzlar",
             "repo": "VulnLab",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "snoopysecurity",
             "repo": "dvws",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "SpiderLabs",
             "repo": "MCIR",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "adamdoupe",
             "repo": "WackoPicko",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "tegal1337",
             "repo": "0l4bs",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "Hackademic",
             "repo": "hackademic",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "m6a-UdS",
             "repo": "dvca",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "SpiderLabs",
             "repo": "CryptOMG",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "commixproject",
             "repo": "commix-testbed",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "himadriganguly",
             "repo": "sqlilabs",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "sonuoffsec",
             "repo": "DVAP",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "dobin",
             "repo": "SentinelTestbed",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "tegal1337",
             "repo": "br0w",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "commjoen",
             "repo": "wrongsecrets",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "grepstrength",
             "repo": "swiss-cheese-software",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "Vulnerable Web Applications"
@@ -412,7 +438,8 @@
             "owner": "fortify",
             "repo": "IWA-DotNet",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "fortify",
             "repo": "IWA-Java",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "Sites by Vendors of Security Testing Software"
@@ -447,8 +475,9 @@
             "last_commit": "2026-08-27T09:07:51Z",
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6807
-          }
+            "stars": 6808
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -462,8 +491,9 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5758
-          }
+            "stars": 5760
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "TritonDataCenter",
             "repo": "triton",
             "stars": 1370
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "Nakiami",
             "repo": "mellivora",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "SpiderLabs",
             "repo": "MCIR",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "akama",
             "repo": "NightShade",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "rootxjs",
             "repo": "grpc-goat",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "dalpan",
             "repo": "Pretexta",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "Labs"
@@ -585,11 +622,12 @@
             "archived": false,
             "id": 69648386,
             "language": "Python",
-            "last_commit": "2026-08-14T05:36:04Z",
+            "last_commit": "2026-08-28T08:29:53Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13140
-          }
+            "stars": 13143
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "nvisium-jack-mannino",
             "repo": "OWASP-GoatDroid-Project",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "arroway",
             "repo": "dvfa",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "NocONName",
             "repo": "Wargame_NcN2012",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "Mobile Apps"
@@ -685,7 +728,8 @@
             "owner": "OWASP",
             "repo": "crAPI",
             "stars": 1566
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -699,8 +743,9 @@
             "last_commit": "2026-04-07T20:02:39Z",
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1313
-          }
+            "stars": 1314
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -714,8 +759,9 @@
             "last_commit": "2026-08-27T22:22:16Z",
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 516
-          }
+            "stars": 517
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "Checkmarx",
             "repo": "capital",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         },
         {
           "node_type": "item",
@@ -745,14 +792,15 @@
             "owner": "Aif4thah",
             "repo": "VulnerableLightApp",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "API"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:24.360Z",
+    "last_updated": "2026-08-29T00:59:00.811Z",
     "original_repository_info": {
       "archived": false,
       "id": 201734799,
@@ -760,7 +808,7 @@
       "last_commit": "2026-06-22T17:46:43Z",
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1384
+      "stars": 1386
     },
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
     "enhanced_repository": "enhansome/enhansome-vulnerable",
