@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T21:14:25Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13734,
+            "stars": 13738,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 39,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9302,
+            "stars": 9306,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1513,
+            "stars": 1514,
             "topics": [
               "10",
               "application",
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -810,7 +810,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "cloud",
               "virtualization"
@@ -992,8 +992,8 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-28T08:29:53Z",
-            "open_issues": 236,
+            "last_commit": "2026-08-29T09:18:06Z",
+            "open_issues": 234,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13143,
@@ -1037,7 +1037,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 416,
+            "stars": 417,
             "topics": [
               "android",
               "bugbounty",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1315,
+            "stars": 1314,
             "topics": [
               "api",
               "api-rest",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:39.354Z",
+    "last_updated": "2026-08-29T19:46:29.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
