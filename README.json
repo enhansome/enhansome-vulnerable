@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+            "homepage": "https://owasp-juice.shop",
             "id": 24233689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:14:25Z",
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13734
+            "stars": 13734,
+            "topics": [
+              "24pullrequests",
+              "application-security",
+              "appsec",
+              "ctf",
+              "hacking",
+              "hacktoberfest",
+              "javascript",
+              "owasp",
+              "owasp-top-10",
+              "owasp-top-ten",
+              "pentesting",
+              "security",
+              "vulnapp",
+              "vulnerable"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -26,12 +46,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebGoat is a deliberately insecure application",
+            "homepage": "https://owasp.org/www-project-webgoat/",
             "id": 31771754,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T09:53:59Z",
+            "open_issues": 39,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9302
+            "stars": 9302,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQLI labs to test error based, Blind boolean based, Time based.",
+            "homepage": null,
             "id": 4380514,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-12-11T17:06:16Z",
+            "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5834
+            "stars": 5834,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
             "id": 141209050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -74,12 +109,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.  ",
+            "homepage": null,
             "id": 44470991,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-12T17:26:24Z",
+            "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1763
+            "stars": 1763,
+            "topics": [
+              "application-security",
+              "knowledge",
+              "learning-appsec",
+              "mysql",
+              "php",
+              "vulnerability",
+              "xvwa"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -90,12 +138,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, security enthusiasts, classrooms, CTF, and vulnerability assessment tool targets.",
+            "homepage": null,
             "id": 150676011,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-22T23:27:44Z",
+            "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1513
+            "stars": 1513,
+            "topics": [
+              "10",
+              "application",
+              "appsec",
+              "cybersecurity",
+              "owasp",
+              "owasp-top-10",
+              "penetration-testing",
+              "security",
+              "top",
+              "training",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -106,12 +171,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A modern vulnerable web app",
+            "homepage": null,
             "id": 38128140,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-11T20:02:56Z",
+            "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1038
+            "stars": 1038,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -122,12 +192,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable NodeJS Application",
+            "homepage": null,
             "id": 110521300,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-03-27T17:02:04Z",
+            "open_issues": 16,
             "owner": "appsecco",
             "repo": "dvna",
-            "stars": 779
+            "stars": 779,
+            "topics": [
+              "dvna",
+              "hack",
+              "nodejs",
+              "owasp",
+              "owasp-top-10",
+              "security",
+              "testing",
+              "vulnerable",
+              "vulnerable-apps"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -138,12 +223,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 441926125,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-02T18:40:45Z",
+            "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "web-security",
+              "web-security-lab"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -154,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.  NOTE: This project is out of date, please use https://github.com/snoopysecurity/dvws-node",
+            "homepage": null,
             "id": 49496640,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-06T00:15:00Z",
+            "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws",
-            "stars": 461
+            "stars": 461,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -170,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+            "homepage": null,
             "id": 11537216,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-07T12:44:10Z",
+            "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 446
+            "stars": 446,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -186,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WackoPicko is a vulnerable web application used to test web application vulnerability scanners.",
+            "homepage": null,
             "id": 778110,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-05-25T16:13:27Z",
+            "open_issues": 0,
             "owner": "adamdoupe",
             "repo": "WackoPicko",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -202,12 +310,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-site scripting labs for web application security enthusiasts ",
+            "homepage": "https://labs.tegalsec.org/xss-labs",
             "id": 240685856,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-02T15:53:17Z",
+            "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "bugbounty",
+              "labs",
+              "xss",
+              "xss-exploitation",
+              "xss-vulnerability"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -218,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "the main hackademic code repository",
+            "homepage": null,
             "id": 5924647,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-30T14:00:21Z",
+            "open_issues": 42,
             "owner": "Hackademic",
             "repo": "hackademic",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -234,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWASP WebGoat.NET",
+            "homepage": null,
             "id": 2610335,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-12-16T18:02:14Z",
+            "open_issues": 16,
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -250,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable Cloud Application",
+            "homepage": null,
             "id": 145170462,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-09-12T18:58:37Z",
+            "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -266,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.",
+            "homepage": null,
             "id": 4629924,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2015-06-25T17:23:48Z",
+            "open_issues": 0,
             "owner": "SpiderLabs",
             "repo": "CryptOMG",
-            "stars": 194
+            "stars": 194,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -282,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of web pages, vulnerable to command injection flaws",
+            "homepage": null,
             "id": 38447681,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-03-05T09:01:55Z",
+            "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -298,12 +442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lab set-up for learning SQL Injection Techniques",
+            "homepage": null,
             "id": 50411120,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-06T06:59:44Z",
+            "open_issues": 1,
             "owner": "himadriganguly",
             "repo": "sqlilabs",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "learning-sql-injection",
+              "php",
+              "restore-database",
+              "sql-injection"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -314,12 +468,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unguard is an insecure cloud-native microservices demo application.",
+            "homepage": null,
             "id": 382016768,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:14:34Z",
+            "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "cloud-native",
+              "exploits",
+              "kubernetes",
+              "microservices",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -330,12 +495,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security training for the apps you actually ship. Open your browser and start hacking.",
+            "homepage": "https://koadt.github.io/oss-oopssec-store/roadmap/",
             "id": 1118475908,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T09:15:33Z",
+            "open_issues": 8,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "appsec",
+              "ctf",
+              "cybersecurity",
+              "mcp-security",
+              "nextjs",
+              "owasp-top10",
+              "prisma",
+              "prompt-injection",
+              "react",
+              "security-training",
+              "supply-chain-security",
+              "typescript",
+              "vulnerable-web-app",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -346,12 +531,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP, and Agentic AI security.",
+            "homepage": null,
             "id": 1259728164,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T19:40:34Z",
+            "open_issues": 1,
             "owner": "sonuoffsec",
             "repo": "DVAP",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "agent-security",
+              "ai-security",
+              "ctf",
+              "cybersecurity",
+              "docker",
+              "llm",
+              "llm-security",
+              "mcp-security",
+              "ollama",
+              "owasp",
+              "prompt-injection",
+              "red-team"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -362,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable web site. Used to test sentinel features.",
+            "homepage": null,
             "id": 15548525,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2016-11-18T13:17:50Z",
+            "open_issues": 0,
             "owner": "dobin",
             "repo": "SentinelTestbed",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -378,12 +586,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hack The Br0w | Play your browser and learn more, hack fun !!",
+            "homepage": "https://labs.tegalsec.org/br0w/",
             "id": 304043037,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-21T14:54:15Z",
+            "open_issues": 0,
             "owner": "tegal1337",
             "repo": "br0w",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "browser-game"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -394,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable app with examples showing how to not use secrets",
+            "homepage": "https://owasp.org/www-project-wrongsecrets/",
             "id": 1214062756,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-18T04:13:48Z",
+            "open_issues": 0,
             "owner": "commjoen",
             "repo": "wrongsecrets",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -410,12 +630,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intentionally vulnerable web app full of secrets to test security scanners and dependency auditors.",
+            "homepage": "https://riskwaresupplychain.com",
             "id": 1241560659,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-22T20:33:40Z",
+            "open_issues": 1,
             "owner": "grepstrength",
             "repo": "swiss-cheese-software",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "application-security",
+              "appsec",
+              "cve-scanning",
+              "cybersecurity",
+              "dependency-analyzer",
+              "devsecops",
+              "ethical-hacking",
+              "hardcoded-secrets",
+              "intentionally-vulnerable",
+              "nodejs",
+              "python",
+              "rust",
+              "sbom",
+              "secrets-detection",
+              "security",
+              "security-testing",
+              "software-composition-analysis",
+              "supply-chain-security",
+              "vulnerable-app",
+              "vulnerable-dependencies"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         }
@@ -432,12 +678,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insecure Web Application - .NET version",
+            "homepage": null,
             "id": 541417100,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-26T18:19:12Z",
+            "open_issues": 5,
             "owner": "fortify",
             "repo": "IWA-DotNet",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "devsecops",
+              "fortify-integration-sample",
+              "vulnerable-sample-app"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -448,12 +703,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insecure Web + API application with example Fortify integrations into many DevSecOps and CICD platforms",
+            "homepage": null,
             "id": 541414490,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-14T12:49:39Z",
+            "open_issues": 8,
             "owner": "fortify",
             "repo": "IWA-Java",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "fortify-integration-sample",
+              "vulnerable-sample-app"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         }
@@ -470,12 +733,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CTFs as you need them",
+            "homepage": "https://ctfd.io",
             "id": 28681142,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:07:51Z",
+            "open_issues": 426,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6808
+            "stars": 6808,
+            "topics": [
+              "ctf",
+              "ctfd",
+              "education",
+              "flask",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -486,12 +760,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Goat is a \"Vulnerable by Design\" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀",
+            "homepage": "https://madhuakula.com/kubernetes-goat",
             "id": 269419110,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-16T22:11:11Z",
+            "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760
+            "stars": 5760,
+            "topics": [
+              "blueteam",
+              "cloud-native",
+              "cloud-security",
+              "cloudsecurity",
+              "container",
+              "container-security",
+              "devsecops",
+              "docker",
+              "hacking",
+              "infrastructure",
+              "k8s",
+              "kubernetes",
+              "kubernetes-goat",
+              "kubernetes-security",
+              "owasp",
+              "pentesting",
+              "redteam",
+              "security",
+              "vulnerable-app"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -502,12 +801,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Triton DataCenter: a cloud management platform with first class support for containers.",
+            "homepage": "https://www.tritondatacenter.com/",
             "id": 23603175,
             "language": "Shell",
+            "license": "MPL-2.0",
             "last_commit": "2025-06-18T13:20:21Z",
+            "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1370
+            "stars": 1370,
+            "topics": [
+              "cloud",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -518,12 +825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mellivora is a CTF engine written in PHP",
+            "homepage": null,
             "id": 11420532,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-21T23:27:05Z",
+            "open_issues": 29,
             "owner": "Nakiami",
             "repo": "mellivora",
-            "stars": 451
+            "stars": 451,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -534,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+            "homepage": null,
             "id": 11537216,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-07T12:44:10Z",
+            "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 446
+            "stars": 446,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -550,12 +867,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local penetration testing lab using docker-compose.",
+            "homepage": null,
             "id": 277592112,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-17T04:10:11Z",
+            "open_issues": 0,
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "bug-bounty",
+              "bugbounty",
+              "docker",
+              "docker-compose",
+              "penetration-testing",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -566,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple capture the flag framework.",
+            "homepage": null,
             "id": 12523931,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-28T16:37:13Z",
+            "open_issues": 7,
             "owner": "akama",
             "repo": "NightShade",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -582,12 +916,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gRPC Goat is a \"Vulnerable by Design\" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security.",
+            "homepage": "https://rootxjs.github.io/docs/grpc_goat_docs/getting-started/",
             "id": 847820746,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-09-22T13:28:13Z",
+            "open_issues": 0,
             "owner": "rootxjs",
             "repo": "grpc-goat",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "grpc",
+              "grpc-go",
+              "grpc-goat",
+              "grpc-lab",
+              "grpc-security",
+              "grpc-server",
+              "grpc-service",
+              "vulnerable-app",
+              "vulnerable-application",
+              "vulnerable-apps"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -598,12 +948,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretexta is a social engineering simulation lab designed to help security professionals, educators, and organizations understand why social engineering attacks succeed.",
+            "homepage": null,
             "id": 1108741366,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T17:29:47Z",
+            "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "cybersecurity-awareness",
+              "cybersecurity-education",
+              "cybersecurity-training",
+              "hacking-labs",
+              "redteam",
+              "security-awareness",
+              "security-awareness-training",
+              "security-tools",
+              "social-engineering",
+              "social-engineering-techniques",
+              "social-engineering-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         }
@@ -620,12 +987,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+            "homepage": "http://mas.owasp.org/",
             "id": 69648386,
             "language": "Python",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T08:29:53Z",
+            "open_issues": 236,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13143
+            "stars": 13143,
+            "topics": [
+              "android",
+              "android-application",
+              "compliancy-checklist",
+              "dynamic-analysis",
+              "hacking",
+              "ios",
+              "ios-app",
+              "mast",
+              "mastg",
+              "mobile-app",
+              "mobile-security",
+              "mstg",
+              "network-analysis",
+              "pentesting",
+              "reverse-engineering",
+              "reverse-enginnering",
+              "runtime-analysis",
+              "static-analysis",
+              "testing-cryptography"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -636,12 +1028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 63831082,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-31T17:03:31Z",
+            "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 689
+            "stars": 689,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -652,12 +1049,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intentionally vulnerable Android application.",
+            "homepage": "https://medium.com/infosec-adventures",
             "id": 312809182,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-20T10:47:24Z",
+            "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 416
+            "stars": 416,
+            "topics": [
+              "android",
+              "bugbounty",
+              "bypass",
+              "certificate",
+              "dynamic-analysis",
+              "forthebadge",
+              "frida",
+              "frida-scripts",
+              "hackerone-reports",
+              "hardcoded-credentials",
+              "mobile-security",
+              "reverse",
+              "reverse-engineering",
+              "vulnerabilities",
+              "vulnerable",
+              "vulnerable-android-apps"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -668,12 +1087,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "*This project is no longer maintained* OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. The project currently includes two applications: FourGoats, a location-based social network, and Herd Financial, a mobile banking application. There are also several feature that greatly simplify usage within a training environment or for absolute beginners who want a good introduction to working with the Android platform. Download the built version here: https://github.com/jackMannino/OWASP-GoatDroid-Project/downloads",
+            "homepage": null,
             "id": 3612375,
             "language": "Java",
+            "license": null,
             "last_commit": "2014-07-29T01:13:15Z",
+            "open_issues": 11,
             "owner": "nvisium-jack-mannino",
             "repo": "OWASP-GoatDroid-Project",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -684,12 +1108,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion",
+            "homepage": null,
             "id": 15794638,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-01-14T17:11:16Z",
+            "open_issues": 0,
             "owner": "arroway",
             "repo": "dvfa",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -700,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No cON Name 2012 Challenges",
+            "homepage": "https://www.noconname.org",
             "id": 56706414,
             "language": null,
+            "license": null,
             "last_commit": "2016-04-20T18:39:49Z",
+            "open_issues": 0,
             "owner": "NocONName",
             "repo": "Wargame_NcN2012",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         }
@@ -722,12 +1156,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "completely ridiculous API (crAPI)",
+            "homepage": null,
             "id": 335756350,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T19:52:37Z",
+            "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1566
+            "stars": 1566,
+            "topics": [
+              "api",
+              "apisecurity",
+              "hacktoberfest",
+              "owasp"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -738,12 +1182,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable REST API with OWASP top 10 vulnerabilities for security testing",
+            "homepage": null,
             "id": 301193365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-07T20:02:39Z",
+            "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1314
+            "stars": 1315,
+            "topics": [
+              "api",
+              "api-rest",
+              "security-tools",
+              "vulnerable-web-app"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -754,12 +1208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities. ",
+            "homepage": null,
             "id": 253220810,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T22:22:16Z",
+            "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 517
+            "stars": 517,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -770,12 +1229,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.  ",
+            "homepage": null,
             "id": 528331671,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-10T14:48:11Z",
+            "open_issues": 18,
             "owner": "Checkmarx",
             "repo": "capital",
-            "stars": 336
+            "stars": 336,
+            "topics": [
+              "apisecurity",
+              "ctf",
+              "vulnerable-web-app"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -786,12 +1254,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulnerable API for research and education",
+            "homepage": null,
             "id": 733457829,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-25T11:40:44Z",
+            "open_issues": 0,
             "owner": "Aif4thah",
             "repo": "VulnerableLightApp",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "api",
+              "cybersecurity-education",
+              "cybersecurity-training",
+              "docker",
+              "dotnet",
+              "educational-project",
+              "hacking",
+              "hacking-challenge",
+              "hacking-competitions",
+              "owasp-top-10",
+              "pentest",
+              "research",
+              "research-and-development",
+              "vulnerable",
+              "vulnerable-api",
+              "vulnerable-application",
+              "vulnerable-server",
+              "vulnerable-web-app",
+              "vulnerable-web-application",
+              "web-api"
+            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         }
@@ -800,15 +1294,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:59:00.811Z",
+    "last_updated": "2026-08-29T04:31:39.354Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
+      "homepage": "https://kaiiyer.github.io/awesome-vulnerable/",
       "id": 201734799,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-22T17:46:43Z",
+      "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1386
+      "stars": 1386,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "badstore",
+        "bwapp",
+        "hack",
+        "hacking-skills",
+        "hacktoberfest",
+        "hacktoberfest2022",
+        "lab",
+        "penetration-skills",
+        "penetration-testing",
+        "pentest",
+        "security-protection",
+        "security-shepherd",
+        "test-lab",
+        "vulnerabilities",
+        "vulnerable",
+        "vulnerable-apps"
+      ]
     },
     "original_repository_sha": "7694ed4e9b7a3ccad8160c098bfcdd610950bf11",
     "enhanced_repository": "enhansome/enhansome-vulnerable",

@@ -30,7 +30,7 @@
 
 # Awesome Vulnerable with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,861 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg) <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/awesome-vulnerable)](https://github.com/kaiiyer/awesome-vulnerable/stargazers) ⭐ 1,386 | 🐛 2 | 📅 2026-06-22
@@ -233,7 +233,7 @@
 ## API
 
 * [OWASP crAPI](https://github.com/OWASP/crAPI) ⭐ 1,566 | 🐛 31 | 🌐 Java | 📅 2026-05-14 - crAPI stands for “Completely Ridiculous API”. It simulates an API-driven, microservice-based web application that is a platform for vehicle owners. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs.
-* [VAmPI](https://github.com/erev0s/VAmPI) ⭐ 1,314 | 🐛 4 | 🌐 Python | 📅 2026-04-07 - VAmPI is a vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
+* [VAmPI](https://github.com/erev0s/VAmPI) ⭐ 1,315 | 🐛 4 | 🌐 Python | 📅 2026-04-07 - VAmPI is a vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
 * [dvws-node](https://github.com/snoopysecurity/dvws-node) ⭐ 517 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities.
 * [capital](https://github.com/Checkmarx/capital) ⭐ 336 | 🐛 18 | 🌐 CSS | 📅 2026-06-10 - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 * [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-02-25 - Vulnerable API for educational purposes
