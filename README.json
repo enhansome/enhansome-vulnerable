@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-30T18:06:44Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13749,
+            "stars": 13752,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T09:53:59Z",
-            "open_issues": 39,
+            "last_commit": "2026-08-31T09:53:13Z",
+            "open_issues": 41,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9311,
+            "stars": 9313,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5835,
+            "stars": 5836,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -477,7 +477,7 @@
             "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "cloud-native",
               "exploits",
@@ -501,10 +501,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-25T09:15:33Z",
-            "open_issues": 8,
+            "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "appsec",
               "ctf",
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760,
+            "stars": 5762,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -992,11 +992,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-29T09:18:06Z",
-            "open_issues": 234,
+            "last_commit": "2026-08-31T06:34:39Z",
+            "open_issues": 232,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13147,
+            "stars": 13148,
             "topics": [
               "android",
               "android-application",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 417,
+            "stars": 419,
             "topics": [
               "android",
               "bugbounty",
@@ -1217,7 +1217,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:51:16.649Z",
+    "last_updated": "2026-08-31T21:54:57.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1306,7 +1306,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1387,
+      "stars": 1388,
       "topics": [
         "awesome",
         "awesome-list",
