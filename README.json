@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T18:06:44Z",
+            "last_commit": "2026-09-01T15:21:01Z",
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13752,
+            "stars": 13759,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -52,10 +52,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T09:53:13Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9313,
+            "stars": 9316,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -388,7 +388,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -739,10 +739,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:07:51Z",
-            "open_issues": 426,
+            "open_issues": 427,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6808,
+            "stars": 6813,
             "topics": [
               "ctf",
               "ctfd",
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5762,
+            "stars": 5768,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -992,11 +992,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T06:34:39Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-01T09:46:12Z",
+            "open_issues": 233,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13148,
+            "stars": 13151,
             "topics": [
               "android",
               "android-application",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "android",
               "bugbounty",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "api",
               "api-rest",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:54:57.070Z",
+    "last_updated": "2026-09-01T19:57:00.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
