@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T16:41:40Z",
+            "last_commit": "2026-09-03T13:18:16Z",
             "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13769,
+            "stars": 13778,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9318,
+            "stars": 9317,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5837,
+            "stars": 5838,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1514,
+            "stars": 1513,
             "topics": [
               "10",
               "application",
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1040,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -501,7 +501,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-25T09:15:33Z",
-            "open_issues": 12,
+            "open_issues": 24,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 42,
@@ -742,7 +742,7 @@
             "open_issues": 427,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6814,
+            "stars": 6816,
             "topics": [
               "ctf",
               "ctfd",
@@ -834,7 +834,7 @@
             "open_issues": 29,
             "owner": "Nakiami",
             "repo": "mellivora",
-            "stars": 451,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -993,10 +993,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-01T09:46:12Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13152,
+            "stars": 13153,
             "topics": [
               "android",
               "android-application",
@@ -1037,7 +1037,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 692,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1567,
+            "stars": 1568,
             "topics": [
               "api",
               "apisecurity",
@@ -1217,7 +1217,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 518,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:49:18.304Z",
+    "last_updated": "2026-09-03T19:52:52.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1306,7 +1306,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1388,
+      "stars": 1389,
       "topics": [
         "awesome",
         "awesome-list",
