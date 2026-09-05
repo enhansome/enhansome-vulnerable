@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:13:43Z",
+            "last_commit": "2026-09-05T15:07:15Z",
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13787,
+            "stars": 13790,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9318,
+            "stars": 9320,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3717,
+            "stars": 3718,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -118,7 +118,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1763,
+            "stars": 1764,
             "topics": [
               "application-security",
               "knowledge",
@@ -500,8 +500,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T10:59:24Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-05T11:06:12Z",
+            "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 42,
@@ -742,7 +742,7 @@
             "open_issues": 427,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6820,
+            "stars": 6821,
             "topics": [
               "ctf",
               "ctfd",
@@ -993,7 +993,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-04T09:36:20Z",
-            "open_issues": 234,
+            "open_issues": 237,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13155,
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:38:56.035Z",
+    "last_updated": "2026-09-05T19:04:02.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1306,7 +1306,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1390,
+      "stars": 1391,
       "topics": [
         "awesome",
         "awesome-list",
