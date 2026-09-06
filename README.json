@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-05T15:07:15Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13790,
+            "stars": 13792,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,8 +51,8 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T09:53:13Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-06T12:05:11Z",
+            "open_issues": 33,
             "owner": "WebGoat",
             "repo": "WebGoat",
             "stars": 9320,
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5839,
+            "stars": 5840,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -500,7 +500,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T11:06:12Z",
+            "last_commit": "2026-09-06T04:20:30Z",
             "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -540,7 +540,7 @@
             "open_issues": 1,
             "owner": "sonuoffsec",
             "repo": "DVAP",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "agent-security",
               "ai-security",
@@ -738,11 +738,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T09:07:51Z",
-            "open_issues": 427,
+            "last_commit": "2026-09-06T19:11:28Z",
+            "open_issues": 426,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6821,
+            "stars": 6825,
             "topics": [
               "ctf",
               "ctfd",
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5770,
+            "stars": 5771,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -993,7 +993,7 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-04T09:36:20Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13155,
@@ -1263,7 +1263,7 @@
             "open_issues": 0,
             "owner": "Aif4thah",
             "repo": "VulnerableLightApp",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "api",
               "cybersecurity-education",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:04:02.332Z",
+    "last_updated": "2026-09-06T19:14:17.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
