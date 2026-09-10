@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-09T13:06:53Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13831,
+            "stars": 13841,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T09:52:58Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-10T15:02:37Z",
+            "open_issues": 34,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9328,
+            "stars": 9331,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5839,
+            "stars": 5840,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1514,
+            "stars": 1516,
             "topics": [
               "10",
               "application",
@@ -319,7 +319,7 @@
             "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "bugbounty",
               "labs",
@@ -473,7 +473,7 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:55:38Z",
+            "last_commit": "2026-09-10T05:08:15Z",
             "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
@@ -742,7 +742,7 @@
             "open_issues": 426,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6827,
+            "stars": 6830,
             "topics": [
               "ctf",
               "ctfd",
@@ -996,7 +996,7 @@
             "open_issues": 238,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13170,
+            "stars": 13173,
             "topics": [
               "android",
               "android-application",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 424,
+            "stars": 426,
             "topics": [
               "android",
               "bugbounty",
@@ -1165,7 +1165,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1574,
+            "stars": 1577,
             "topics": [
               "api",
               "apisecurity",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1319,
+            "stars": 1323,
             "topics": [
               "api",
               "api-rest",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:48:03.485Z",
+    "last_updated": "2026-09-10T19:44:36.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
