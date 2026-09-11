@@ -30,7 +30,7 @@
 
 # Awesome Vulnerable with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,789 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,115 | 🐛 106 | 📅 2026-09-02
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg) <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/awesome-vulnerable)](https://github.com/kaiiyer/awesome-vulnerable/stargazers) ⭐ 1,391 | 🐛 2 | 📅 2026-06-22
@@ -54,12 +54,12 @@
 
 ## Vulnerable Web Applications
 
-* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,841 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 13,846 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-09 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
 * [OWASP WebGoat8](https://github.com/webgoat/webgoat) ⭐ 9,331 | 🐛 34 | 🌐 JavaScript | 📅 2026-09-10 - OWASP Webgoat 8 is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications, is written in Java and is actively maintained.
 * [sqli-labs](https://github.com/Audi-1/sqli-labs) ⭐ 5,840 | 🐛 33 | 🌐 PHP | 📅 2023-12-11 - SQLI labs to test error based, Blind boolean based, Time based.
-* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) ⭐ 3,722 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) ⭐ 3,726 | 🐛 24 | 🌐 Python | 📅 2026-04-28 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [XVWA](https://github.com/s4n7h0/xvwa) ⚠️ Archived - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
-* [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) ⭐ 1,516 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
+* [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) ⭐ 1,518 | 🐛 1 | 🌐 PHP | 📅 2026-06-22 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 * [Hackazon](https://github.com/rapid7/hackazon) ⚠️ Archived -  A modern vulnerable web app
 * [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) ⭐ 778 | 🐛 16 | 🌐 SCSS | 📅 2024-03-27 - Damn Vulnerable NodeJS Application
 * [VulnLab](https://github.com/Yavuzlar/VulnLab) ⭐ 528 | 🐛 5 | 🌐 CSS | 📅 2025-02-02 - A vulnerable web application lab using Docker
@@ -67,10 +67,10 @@
   Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 * [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) ⚠️ Archived - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds
 * [WackoPicko](https://github.com/adamdoupe/WackoPicko) ⭐ 353 | 🐛 0 | 🌐 PHP | 📅 2024-05-25 -  WackoPicko is a vulnerable web application used to test web application vulnerability scanners
-* [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) ⭐ 347 | 🐛 1 | 🌐 PHP | 📅 2021-06-02 - Cross-site scripting (XSS) labs for web application security enthusiasts
+* [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) ⭐ 348 | 🐛 1 | 🌐 PHP | 📅 2021-06-02 - Cross-site scripting (XSS) labs for web application security enthusiasts
 * [OWASP Hackademic](https://github.com/Hackademic/hackademic/) ⚠️ Archived - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
 * [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/) ⭐ 257 | 🐛 16 | 🌐 C# | 📅 2023-12-16 - This web application is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications
-* [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) ⭐ 211 | 🐛 0 | 🌐 CSS | 📅 2018-09-12 - Damn Vulnerable Cloud Application
+* [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) ⭐ 212 | 🐛 0 | 🌐 CSS | 📅 2018-09-12 - Damn Vulnerable Cloud Application
 * [CryptOMG](https://github.com/SpiderLabs/CryptOMG) ⭐ 194 | 🐛 0 | 🌐 PHP | 📅 2015-06-25 - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
 * [Commix](https://github.com/stasinopoulos/commix-testbed) ⭐ 182 | 🐛 0 | 🌐 PHP | 📅 2023-03-05 - A collection of web pages, vulnerable to command injection flaws.
 * [Sqlilabs](https://github.com/himadriganguly/sqlilabs) ⭐ 101 | 🐛 1 | 🌐 JavaScript | 📅 2020-12-06 - Lab set-up for learning SQL Injection Techniques
@@ -189,8 +189,8 @@
 
 ## Labs
 
-* [CTFd](https://github.com/isislab/CTFd) ⭐ 6,830 | 🐛 426 | 🌐 Python | 📅 2026-09-07 - CTFs as you need them
-* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,773 | 🐛 28 | 🌐 HTML | 📅 2026-04-16 - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+* [CTFd](https://github.com/isislab/CTFd) ⭐ 6,831 | 🐛 426 | 🌐 Python | 📅 2026-09-07 - CTFs as you need them
+* [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,775 | 🐛 28 | 🌐 HTML | 📅 2026-04-16 - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 * [SmartDataCenter](https://github.com/joyent/sdc) ⭐ 1,372 | 🐛 42 | 🌐 Shell | 📅 2025-06-18 - Joyent Triton DataCenter: a cloud management platform with first class support for containers.
 * [Mellivora](https://github.com/Nakiami/mellivora) ⭐ 450 | 🐛 29 | 🌐 PHP | 📅 2023-12-21 - Mellivora is a CTF engine written in PHP
 * [MCIR](https://github.com/SpiderLabs/MCIR) ⚠️ Archived - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.
@@ -216,9 +216,9 @@
 
 ## Mobile Apps
 
-* [OWASP MSTG Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,173 | 🐛 238 | 🌐 Python | 📅 2026-09-09 - A set of mobile apps that help you to improve your reverse engineering skills base don the [OWASP MSTG](https://github.com/OWASP/owasp-mstg) ⭐ 13,173 | 🐛 238 | 🌐 Python | 📅 2026-09-09.
+* [OWASP MSTG Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,178 | 🐛 239 | 🌐 Python | 📅 2026-09-11 - A set of mobile apps that help you to improve your reverse engineering skills base don the [OWASP MSTG](https://github.com/OWASP/owasp-mstg) ⭐ 13,178 | 🐛 239 | 🌐 Python | 📅 2026-09-11.
 * [OWASP MSTG Hacking Playground](https://github.com/OWASP/MSTG-Hacking-Playground) ⭐ 694 | 🐛 10 | 🌐 Java | 📅 2022-10-31 - A set of mobile vulnerable apps of which you can exploit the vulnerabilities using techniques of the OWASP MSTG.
-* [Allsafe](https://github.com/t0thkr1s/allsafe) ⭐ 426 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
+* [Allsafe](https://github.com/t0thkr1s/allsafe) ⭐ 427 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
 * [OWASP Goatdroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) ⚠️ Archived - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
 * [Damn Vulnerable FirefoxOS Application (DVFA)](https://github.com/arroway/dvfa) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2014-01-14 - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
 * [NcN Wargame](https://github.com/NocONName/Wargame_NcN2012) ⭐ 0 | 🐛 0 | 📅 2016-04-20 - No cON Name 2012 Challenges
@@ -242,4 +242,4 @@ Contributions are always appreciated
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
