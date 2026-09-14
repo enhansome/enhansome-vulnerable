@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:06:53Z",
+            "last_commit": "2026-09-14T14:14:41Z",
             "open_issues": 8,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13856,
+            "stars": 13864,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T12:49:16Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-14T18:19:47Z",
+            "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9336,
+            "stars": 9335,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5841,
+            "stars": 5842,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1518,
+            "stars": 1519,
             "topics": [
               "10",
               "application",
@@ -426,7 +426,7 @@
             "id": 38447681,
             "language": "PHP",
             "license": null,
-            "last_commit": "2023-03-05T09:01:55Z",
+            "last_commit": "2026-09-14T17:10:28Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
@@ -500,8 +500,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T17:15:35Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-13T20:13:52Z",
+            "open_issues": 19,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 44,
@@ -742,7 +742,7 @@
             "open_issues": 426,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6835,
+            "stars": 6837,
             "topics": [
               "ctf",
               "ctfd",
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5779,
+            "stars": 5781,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -904,7 +904,7 @@
             "open_issues": 7,
             "owner": "akama",
             "repo": "NightShade",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -992,11 +992,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-13T18:06:04Z",
-            "open_issues": 240,
+            "last_commit": "2026-09-14T11:04:03Z",
+            "open_issues": 237,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13180,
+            "stars": 13182,
             "topics": [
               "android",
               "android-application",
@@ -1165,7 +1165,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1578,
+            "stars": 1579,
             "topics": [
               "api",
               "apisecurity",
@@ -1217,7 +1217,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 520,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:29:21.063Z",
+    "last_updated": "2026-09-14T20:57:17.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
