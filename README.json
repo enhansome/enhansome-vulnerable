@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-14T14:14:41Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13864,
+            "stars": 13871,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9335,
+            "stars": 9338,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -94,7 +94,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
             "stars": 3729,
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1519,
+            "stars": 1521,
             "topics": [
               "10",
               "application",
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -319,7 +319,7 @@
             "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 348,
+            "stars": 347,
             "topics": [
               "bugbounty",
               "labs",
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5781,
+            "stars": 5784,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -834,7 +834,7 @@
             "open_issues": 29,
             "owner": "Nakiami",
             "repo": "mellivora",
-            "stars": 450,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -993,10 +993,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-14T11:04:03Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13182,
+            "stars": 13184,
             "topics": [
               "android",
               "android-application",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 428,
+            "stars": 429,
             "topics": [
               "android",
               "bugbounty",
@@ -1165,7 +1165,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1579,
+            "stars": 1581,
             "topics": [
               "api",
               "apisecurity",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "api",
               "api-rest",
@@ -1238,7 +1238,7 @@
             "open_issues": 18,
             "owner": "Checkmarx",
             "repo": "capital",
-            "stars": 336,
+            "stars": 338,
             "topics": [
               "apisecurity",
               "ctf",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:57:17.537Z",
+    "last_updated": "2026-09-15T20:16:07.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1306,7 +1306,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1391,
+      "stars": 1392,
       "topics": [
         "awesome",
         "awesome-list",
