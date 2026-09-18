@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T15:54:40Z",
+            "last_commit": "2026-09-18T14:50:46Z",
             "open_issues": 10,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13888,
+            "stars": 13892,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T18:19:47Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-17T21:57:29Z",
+            "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9340,
+            "stars": 9342,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5845,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1522,
+            "stars": 1523,
             "topics": [
               "10",
               "application",
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -500,7 +500,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:13:52Z",
+            "last_commit": "2026-09-17T21:59:26Z",
             "open_issues": 19,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -738,8 +738,8 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:31:38Z",
-            "open_issues": 426,
+            "last_commit": "2026-09-17T22:41:06Z",
+            "open_issues": 427,
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6841,
@@ -769,7 +769,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5786,
+            "stars": 5788,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -992,11 +992,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-17T11:55:59Z",
-            "open_issues": 236,
+            "last_commit": "2026-09-18T19:21:35Z",
+            "open_issues": 240,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13184,
+            "stars": 13185,
             "topics": [
               "android",
               "android-application",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "android",
               "bugbounty",
@@ -1191,7 +1191,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1326,
+            "stars": 1327,
             "topics": [
               "api",
               "api-rest",
@@ -1294,7 +1294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:21:40.207Z",
+    "last_updated": "2026-09-18T19:39:57.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1306,7 +1306,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1392,
+      "stars": 1393,
       "topics": [
         "awesome",
         "awesome-list",
