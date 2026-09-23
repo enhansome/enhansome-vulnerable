@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T05:55:09Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-23T19:26:19Z",
+            "open_issues": 9,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13924,
+            "stars": 13935,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T12:59:33Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-23T15:46:45Z",
+            "open_issues": 33,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9346,
+            "stars": 9348,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5848,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3732,
+            "stars": 3734,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1523,
+            "stars": 1522,
             "topics": [
               "10",
               "application",
@@ -256,7 +256,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws",
-            "stars": 461,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -507,8 +507,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:37:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-23T14:07:08Z",
+            "open_issues": 17,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -746,10 +746,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T22:41:06Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6845,
+            "stars": 6849,
             "topics": [
               "ctf",
               "ctfd",
@@ -883,7 +883,7 @@
             "open_issues": 0,
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -1000,10 +1000,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-20T18:05:55Z",
-            "open_issues": 240,
+            "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13195,
+            "stars": 13197,
             "topics": [
               "android",
               "android-application",
@@ -1065,7 +1065,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "android",
               "bugbounty",
@@ -1172,7 +1172,7 @@
             "open_issues": 30,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1589,
+            "stars": 1588,
             "topics": [
               "api",
               "apisecurity",
@@ -1224,7 +1224,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 520,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1270,7 +1270,7 @@
             "open_issues": 0,
             "owner": "Aif4thah",
             "repo": "VulnerableLightApp",
-            "stars": 62,
+            "stars": 61,
             "topics": [
               "api",
               "cybersecurity-education",
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:12:55.553Z",
+    "last_updated": "2026-09-23T20:26:03.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
