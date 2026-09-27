@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13953,
+            "stars": 13956,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5846,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3737,
+            "stars": 3739,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1525,
+            "stars": 1526,
             "topics": [
               "10",
               "application",
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -425,12 +425,12 @@
             "homepage": null,
             "id": 38447681,
             "language": "PHP",
-            "license": null,
-            "last_commit": "2026-09-19T10:42:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-27T09:37:05Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "bug-bounty",
               "commandinjection",
@@ -511,7 +511,7 @@
             "open_issues": 16,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "appsec",
               "ctf",
@@ -749,7 +749,7 @@
             "open_issues": 428,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6855,
+            "stars": 6856,
             "topics": [
               "ctf",
               "ctfd",
@@ -776,7 +776,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5796,
+            "stars": 5798,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1003,7 +1003,7 @@
             "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13207,
+            "stars": 13209,
             "topics": [
               "android",
               "android-application",
@@ -1198,7 +1198,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1333,
+            "stars": 1332,
             "topics": [
               "api",
               "api-rest",
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:54:13.410Z",
+    "last_updated": "2026-09-27T20:11:00.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
