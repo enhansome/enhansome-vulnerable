@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-26T16:44:31Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-29T11:50:50Z",
+            "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13973,
+            "stars": 13980,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9359,
+            "stars": 9367,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3740,
+            "stars": 3741,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -118,7 +118,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1762,
+            "stars": 1763,
             "topics": [
               "application-security",
               "knowledge",
@@ -776,7 +776,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5803,
+            "stars": 5816,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1003,7 +1003,7 @@
             "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13210,
+            "stars": 13212,
             "topics": [
               "android",
               "android-application",
@@ -1198,7 +1198,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1332,
+            "stars": 1334,
             "topics": [
               "api",
               "api-rest",
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:33:35.964Z",
+    "last_updated": "2026-09-29T21:25:43.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
