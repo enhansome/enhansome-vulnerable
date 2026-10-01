@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T21:11:42Z",
+            "last_commit": "2026-09-30T22:17:58Z",
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13989,
+            "stars": 13994,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -52,10 +52,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T09:53:13Z",
-            "open_issues": 40,
+            "open_issues": 44,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9375,
+            "stars": 9383,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5848,
+            "stars": 5849,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -367,7 +367,7 @@
             "open_issues": 16,
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
-            "stars": 258,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -480,8 +480,8 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T05:08:15Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-01T09:35:59Z",
+            "open_issues": 18,
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 75,
@@ -629,48 +629,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Swiss Cheese Software",
-          "description": "Intentionally vulnerable multi-language app (Node.js, Python, Rust) with hardcoded secrets and outdated dependencies. Designed to test supply chain security scanners, dependency auditors, and SBOM generators.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Intentionally vulnerable web app full of secrets to test security scanners and dependency auditors.",
-            "homepage": "https://riskwaresupplychain.com",
-            "id": 1241560659,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-22T20:33:40Z",
-            "open_issues": 1,
-            "owner": "grepstrength",
-            "repo": "swiss-cheese-software",
-            "stars": 0,
-            "topics": [
-              "application-security",
-              "appsec",
-              "cve-scanning",
-              "cybersecurity",
-              "dependency-analyzer",
-              "devsecops",
-              "ethical-hacking",
-              "hardcoded-secrets",
-              "intentionally-vulnerable",
-              "nodejs",
-              "python",
-              "rust",
-              "sbom",
-              "secrets-detection",
-              "security",
-              "security-testing",
-              "software-composition-analysis",
-              "supply-chain-security",
-              "vulnerable-app",
-              "vulnerable-dependencies"
-            ]
-          },
-          "first_seen": "2026-08-29T00:59:00.811Z"
         }
       ],
       "title": "Vulnerable Web Applications"
@@ -746,7 +704,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T18:34:34Z",
-            "open_issues": 428,
+            "open_issues": 429,
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6860,
@@ -776,7 +734,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5832,
+            "stars": 5862,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -999,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T08:25:55Z",
-            "open_issues": 237,
+            "last_commit": "2026-10-01T18:27:28Z",
+            "open_issues": 239,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13216,
+            "stars": 13214,
             "topics": [
               "android",
               "android-application",
@@ -1169,7 +1127,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T03:43:56Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
             "stars": 1589,
@@ -1301,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:26:20.191Z",
+    "last_updated": "2026-10-01T21:50:49.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
