@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14009,
+            "stars": 14016,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 45,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9389,
+            "stars": 9390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5849,
+            "stars": 5848,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3743,
+            "stars": 3749,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -511,7 +511,7 @@
             "open_issues": 16,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "appsec",
               "ctf",
@@ -734,7 +734,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5877,
+            "stars": 5885,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -869,7 +869,7 @@
             "open_issues": 7,
             "owner": "akama",
             "repo": "NightShade",
-            "stars": 128,
+            "stars": 127,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -961,7 +961,7 @@
             "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13216,
+            "stars": 13218,
             "topics": [
               "android",
               "android-application",
@@ -1130,7 +1130,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1590,
+            "stars": 1591,
             "topics": [
               "api",
               "apisecurity",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:57.817Z",
+    "last_updated": "2026-10-03T19:57:21.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
