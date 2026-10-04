@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T22:17:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-04T16:41:52Z",
+            "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14016,
+            "stars": 14022,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1527,
+            "stars": 1529,
             "topics": [
               "10",
               "application",
@@ -388,7 +388,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -507,11 +507,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:04:40Z",
+            "last_commit": "2026-10-04T04:22:33Z",
             "open_issues": 16,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "appsec",
               "ctf",
@@ -602,7 +602,7 @@
             "open_issues": 0,
             "owner": "tegal1337",
             "repo": "br0w",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "browser-game"
             ]
@@ -734,7 +734,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5885,
+            "stars": 5891,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "cybersecurity-awareness",
               "cybersecurity-education",
@@ -961,7 +961,7 @@
             "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13218,
+            "stars": 13221,
             "topics": [
               "android",
               "android-application",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:57:21.053Z",
+    "last_updated": "2026-10-04T20:12:41.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1399,
+      "stars": 1400,
       "topics": [
         "awesome",
         "awesome-list",
