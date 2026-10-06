@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14024,
+            "stars": 14026,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T09:53:11Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-06T10:41:05Z",
+            "open_issues": 35,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9392,
+            "stars": 9393,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -425,8 +425,8 @@
             "homepage": null,
             "id": 38447681,
             "language": "PHP",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:22:01Z",
+            "license": null,
+            "last_commit": "2026-10-06T03:19:20Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
@@ -707,7 +707,7 @@
             "open_issues": 428,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6865,
+            "stars": 6866,
             "topics": [
               "ctf",
               "ctfd",
@@ -961,7 +961,7 @@
             "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13222,
+            "stars": 13224,
             "topics": [
               "android",
               "android-application",
@@ -1130,7 +1130,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1591,
+            "stars": 1592,
             "topics": [
               "api",
               "apisecurity",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:10:49.439Z",
+    "last_updated": "2026-10-06T10:59:48.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1400,
+      "stars": 1401,
       "topics": [
         "awesome",
         "awesome-list",
