@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:31:51Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-10T20:04:55Z",
+            "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14050,
+            "stars": 14058,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 33,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9399,
+            "stars": 9402,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5848,
+            "stars": 5849,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3752,
+            "stars": 3753,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1530,
+            "stars": 1529,
             "topics": [
               "10",
               "application",
@@ -426,7 +426,7 @@
             "id": 38447681,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-10-06T03:19:20Z",
+            "last_commit": "2026-10-10T08:23:11Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
@@ -704,10 +704,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T04:59:15Z",
-            "open_issues": 429,
+            "open_issues": 430,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6871,
+            "stars": 6873,
             "topics": [
               "ctf",
               "ctfd",
@@ -957,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-01T18:27:28Z",
+            "last_commit": "2026-10-10T02:01:53Z",
             "open_issues": 242,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13233,
+            "stars": 13238,
             "topics": [
               "android",
               "android-application",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:43:04.044Z",
+    "last_updated": "2026-10-10T20:34:43.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
