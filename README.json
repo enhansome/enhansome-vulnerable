@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14085,
+            "stars": 14095,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 33,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9411,
+            "stars": 9410,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5854,
+            "stars": 5855,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -118,7 +118,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1763,
+            "stars": 1764,
             "topics": [
               "application-security",
               "knowledge",
@@ -256,7 +256,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws",
-            "stars": 460,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -364,7 +364,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2023-12-16T18:02:14Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
             "stars": 258,
@@ -511,7 +511,7 @@
             "open_issues": 13,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "appsec",
               "ctf",
@@ -704,7 +704,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T04:59:15Z",
-            "open_issues": 431,
+            "open_issues": 430,
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6876,
@@ -734,7 +734,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5909,
+            "stars": 5911,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -890,7 +890,7 @@
             "open_issues": 0,
             "owner": "rootxjs",
             "repo": "grpc-goat",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "grpc",
               "grpc-go",
@@ -961,7 +961,7 @@
             "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13246,
+            "stars": 13253,
             "topics": [
               "android",
               "android-application",
@@ -1002,7 +1002,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 697,
+            "stars": 698,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1023,7 +1023,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "android",
               "bugbounty",
@@ -1130,7 +1130,7 @@
             "open_issues": 31,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1604,
+            "stars": 1608,
             "topics": [
               "api",
               "apisecurity",
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 520,
+            "stars": 521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:52:29.175Z",
+    "last_updated": "2026-10-14T20:43:53.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 2,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1411,
+      "stars": 1413,
       "topics": [
         "awesome",
         "awesome-list",
