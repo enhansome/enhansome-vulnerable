@@ -30,7 +30,7 @@
 
 # Awesome Vulnerable with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,401 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,901 | 🐛 105 | 📅 2026-09-02
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg) <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/awesome-vulnerable)](https://github.com/kaiiyer/awesome-vulnerable/stargazers)
@@ -54,10 +54,10 @@
 
 ## Vulnerable Web Applications
 
-* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,118 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-17 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
-* [OWASP WebGoat8](https://github.com/webgoat/webgoat) ⭐ 9,415 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-13 - OWASP Webgoat 8 is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications, is written in Java and is actively maintained.
-* [sqli-labs](https://github.com/Audi-1/sqli-labs) ⭐ 5,858 | 🐛 33 | 🌐 PHP | 📅 2023-12-11 - SQLI labs to test error based, Blind boolean based, Time based.
-* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) ⭐ 3,759 | 🐛 19 | 🌐 Python | 📅 2026-10-14 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,142 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-17 - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
+* [OWASP WebGoat8](https://github.com/webgoat/webgoat) ⭐ 9,416 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-13 - OWASP Webgoat 8 is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications, is written in Java and is actively maintained.
+* [sqli-labs](https://github.com/Audi-1/sqli-labs) ⭐ 5,863 | 🐛 33 | 🌐 PHP | 📅 2023-12-11 - SQLI labs to test error based, Blind boolean based, Time based.
+* [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) ⭐ 3,760 | 🐛 19 | 🌐 Python | 📅 2026-10-14 - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [XVWA](https://github.com/s4n7h0/xvwa) ⚠️ Archived - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 * [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) ⭐ 1,530 | 🐛 1 | 🌐 PHP | 📅 2026-09-24 - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 * [Hackazon](https://github.com/rapid7/hackazon) ⚠️ Archived -  A modern vulnerable web app
@@ -67,7 +67,7 @@
   Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 * [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) ⚠️ Archived - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds
 * [WackoPicko](https://github.com/adamdoupe/WackoPicko) ⭐ 354 | 🐛 0 | 🌐 PHP | 📅 2024-05-25 -  WackoPicko is a vulnerable web application used to test web application vulnerability scanners
-* [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) ⭐ 350 | 🐛 1 | 🌐 PHP | 📅 2021-06-02 - Cross-site scripting (XSS) labs for web application security enthusiasts
+* [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) ⭐ 351 | 🐛 1 | 🌐 PHP | 📅 2021-06-02 - Cross-site scripting (XSS) labs for web application security enthusiasts
 * [OWASP Hackademic](https://github.com/Hackademic/hackademic/) ⚠️ Archived - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
 * [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/) ⭐ 259 | 🐛 15 | 🌐 C# | 📅 2023-12-16 - This web application is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications
 * [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) ⭐ 214 | 🐛 0 | 🌐 CSS | 📅 2018-09-12 - Damn Vulnerable Cloud Application
@@ -216,7 +216,7 @@
 
 ## Mobile Apps
 
-* [OWASP MSTG Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,260 | 🐛 245 | 🌐 Python | 📅 2026-10-16 - A set of mobile apps that help you to improve your reverse engineering skills base don the [OWASP MSTG](https://github.com/OWASP/owasp-mstg) ⭐ 13,260 | 🐛 245 | 🌐 Python | 📅 2026-10-16.
+* [OWASP MSTG Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,261 | 🐛 245 | 🌐 Python | 📅 2026-10-16 - A set of mobile apps that help you to improve your reverse engineering skills base don the [OWASP MSTG](https://github.com/OWASP/owasp-mstg) ⭐ 13,261 | 🐛 245 | 🌐 Python | 📅 2026-10-16.
 * [OWASP MSTG Hacking Playground](https://github.com/OWASP/MSTG-Hacking-Playground) ⭐ 699 | 🐛 10 | 🌐 Java | 📅 2022-10-31 - A set of mobile vulnerable apps of which you can exploit the vulnerabilities using techniques of the OWASP MSTG.
 * [Allsafe](https://github.com/t0thkr1s/allsafe) ⭐ 441 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
 * [OWASP Goatdroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) ⚠️ Archived - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
@@ -232,7 +232,7 @@
 
 ## API
 
-* [OWASP crAPI](https://github.com/OWASP/crAPI) ⭐ 1,608 | 🐛 32 | 🌐 Java | 📅 2026-09-09 - crAPI stands for “Completely Ridiculous API”. It simulates an API-driven, microservice-based web application that is a platform for vehicle owners. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs.
+* [OWASP crAPI](https://github.com/OWASP/crAPI) ⭐ 1,609 | 🐛 32 | 🌐 Java | 📅 2026-09-09 - crAPI stands for “Completely Ridiculous API”. It simulates an API-driven, microservice-based web application that is a platform for vehicle owners. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs.
 * [VAmPI](https://github.com/erev0s/VAmPI) ⭐ 1,339 | 🐛 4 | 🌐 Python | 📅 2026-04-07 - VAmPI is a vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
 * [dvws-node](https://github.com/snoopysecurity/dvws-node) ⭐ 521 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07 - Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities.
 * [capital](https://github.com/Checkmarx/capital) ⭐ 339 | 🐛 18 | 🌐 CSS | 📅 2026-06-10 - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
@@ -242,4 +242,4 @@ Contributions are always appreciated
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

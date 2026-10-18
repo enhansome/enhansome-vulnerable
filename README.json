@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T13:35:12Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14118,
+            "stars": 14142,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 36,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9415,
+            "stars": 9416,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5858,
+            "stars": 5863,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 19,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3759,
+            "stars": 3760,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -319,7 +319,7 @@
             "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "bugbounty",
               "labs",
@@ -961,7 +961,7 @@
             "open_issues": 245,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13260,
+            "stars": 13261,
             "topics": [
               "android",
               "android-application",
@@ -1130,7 +1130,7 @@
             "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1608,
+            "stars": 1609,
             "topics": [
               "api",
               "apisecurity",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:26:46.311Z",
+    "last_updated": "2026-10-18T19:26:56.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
