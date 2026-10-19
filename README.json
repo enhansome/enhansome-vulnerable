@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T13:35:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-19T09:20:49Z",
+            "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14142,
+            "stars": 14176,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T04:40:55Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-19T09:52:49Z",
+            "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9416,
+            "stars": 9420,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5863,
+            "stars": 5865,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 19,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3760,
+            "stars": 3761,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -319,7 +319,7 @@
             "open_issues": 1,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 351,
+            "stars": 354,
             "topics": [
               "bugbounty",
               "labs",
@@ -507,7 +507,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T10:32:28Z",
+            "last_commit": "2026-10-19T21:33:36Z",
             "open_issues": 13,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -704,10 +704,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T20:45:08Z",
-            "open_issues": 432,
+            "open_issues": 431,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6880,
+            "stars": 6885,
             "topics": [
               "ctf",
               "ctfd",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "cybersecurity-awareness",
               "cybersecurity-education",
@@ -961,7 +961,7 @@
             "open_issues": 245,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13261,
+            "stars": 13268,
             "topics": [
               "android",
               "android-application",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:26:56.681Z",
+    "last_updated": "2026-10-19T21:33:51.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 3,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1415,
+      "stars": 1417,
       "topics": [
         "awesome",
         "awesome-list",
