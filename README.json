@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:09:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-21T06:02:31Z",
+            "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14187,
+            "stars": 14195,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9425,
+            "stars": 9428,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -94,10 +94,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-14T20:57:46Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3763,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1530,
+            "stars": 1531,
             "topics": [
               "10",
               "application",
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1040,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -284,6 +284,33 @@
         },
         {
           "node_type": "item",
+          "title": "tegal1337/0l4bs",
+          "description": "Cross-site scripting (XSS) labs for web application security enthusiasts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-site scripting labs for web application security enthusiasts ",
+            "homepage": "https://labs.tegalsec.org/xss-labs",
+            "id": 240685856,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2021-06-02T15:53:17Z",
+            "open_issues": 1,
+            "owner": "tegal1337",
+            "repo": "0l4bs",
+            "stars": 355,
+            "topics": [
+              "bugbounty",
+              "labs",
+              "xss",
+              "xss-exploitation",
+              "xss-vulnerability"
+            ]
+          },
+          "first_seen": "2026-08-29T00:59:00.811Z"
+        },
+        {
+          "node_type": "item",
           "title": "WackoPicko",
           "description": "WackoPicko is a vulnerable web application used to test web application vulnerability scanners",
           "children": [],
@@ -300,33 +327,6 @@
             "repo": "WackoPicko",
             "stars": 354,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:59:00.811Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tegal1337/0l4bs",
-          "description": "Cross-site scripting (XSS) labs for web application security enthusiasts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cross-site scripting labs for web application security enthusiasts ",
-            "homepage": "https://labs.tegalsec.org/xss-labs",
-            "id": 240685856,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2021-06-02T15:53:17Z",
-            "open_issues": 1,
-            "owner": "tegal1337",
-            "repo": "0l4bs",
-            "stars": 354,
-            "topics": [
-              "bugbounty",
-              "labs",
-              "xss",
-              "xss-exploitation",
-              "xss-vulnerability"
-            ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
         },
@@ -480,7 +480,7 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T14:05:25Z",
+            "last_commit": "2026-10-21T09:45:39Z",
             "open_issues": 19,
             "owner": "dynatrace-oss",
             "repo": "unguard",
@@ -507,11 +507,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T20:35:28Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-20T20:42:11Z",
+            "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "appsec",
               "ctf",
@@ -703,11 +703,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T20:45:08Z",
-            "open_issues": 432,
+            "last_commit": "2026-10-21T01:31:18Z",
+            "open_issues": 433,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6886,
+            "stars": 6888,
             "topics": [
               "ctf",
               "ctfd",
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5914,
+            "stars": 5916,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -958,10 +958,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-16T12:02:07Z",
-            "open_issues": 246,
+            "open_issues": 247,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13271,
+            "stars": 13278,
             "topics": [
               "android",
               "android-application",
@@ -1023,7 +1023,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 441,
+            "stars": 442,
             "topics": [
               "android",
               "bugbounty",
@@ -1061,7 +1061,7 @@
             "open_issues": 11,
             "owner": "nvisium-jack-mannino",
             "repo": "OWASP-GoatDroid-Project",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1609,
+            "stars": 1613,
             "topics": [
               "api",
               "apisecurity",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:38:42.926Z",
+    "last_updated": "2026-10-21T20:39:32.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 3,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1417,
+      "stars": 1416,
       "topics": [
         "awesome",
         "awesome-list",
