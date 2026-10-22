@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T06:02:31Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-22T12:04:55Z",
+            "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14195,
+            "stars": 14207,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9428,
+            "stars": 9432,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3762,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -118,7 +118,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1764,
+            "stars": 1763,
             "topics": [
               "application-security",
               "knowledge",
@@ -388,7 +388,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -480,8 +480,8 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T09:45:39Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-22T08:19:03Z",
+            "open_issues": 18,
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 75,
@@ -703,11 +703,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T01:31:18Z",
-            "open_issues": 433,
+            "last_commit": "2026-10-22T19:19:48Z",
+            "open_issues": 434,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6888,
+            "stars": 6891,
             "topics": [
               "ctf",
               "ctfd",
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5916,
+            "stars": 5919,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1023,7 +1023,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "android",
               "bugbounty",
@@ -1130,7 +1130,7 @@
             "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "api",
               "apisecurity",
@@ -1156,7 +1156,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "api",
               "api-rest",
@@ -1178,11 +1178,11 @@
             "id": 253220810,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T10:56:09Z",
+            "last_commit": "2026-10-21T22:56:52Z",
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 521,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:39:32.635Z",
+    "last_updated": "2026-10-22T20:34:47.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
