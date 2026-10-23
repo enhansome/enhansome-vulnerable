@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T12:04:55Z",
+            "last_commit": "2026-10-23T16:26:02Z",
             "open_issues": 7,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14207,
+            "stars": 14219,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 37,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9432,
+            "stars": 9434,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5865,
+            "stars": 5863,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1531,
+            "stars": 1532,
             "topics": [
               "10",
               "application",
@@ -295,7 +295,7 @@
             "language": "PHP",
             "license": "GPL-3.0",
             "last_commit": "2021-06-02T15:53:17Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "tegal1337",
             "repo": "0l4bs",
             "stars": 355,
@@ -367,7 +367,7 @@
             "open_issues": 15,
             "owner": "jerryhoff",
             "repo": "WebGoat.NET",
-            "stars": 259,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -480,8 +480,8 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T08:19:03Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-23T15:46:44Z",
+            "open_issues": 20,
             "owner": "dynatrace-oss",
             "repo": "unguard",
             "stars": 75,
@@ -704,7 +704,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T19:19:48Z",
-            "open_issues": 434,
+            "open_issues": 435,
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6891,
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5919,
+            "stars": 5918,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -775,7 +775,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1372,
+            "stars": 1371,
             "topics": [
               "cloud",
               "virtualization"
@@ -957,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-16T12:02:07Z",
+            "last_commit": "2026-10-23T13:48:23Z",
             "open_issues": 247,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13278,
+            "stars": 13280,
             "topics": [
               "android",
               "android-application",
@@ -1061,7 +1061,7 @@
             "open_issues": 11,
             "owner": "nvisium-jack-mannino",
             "repo": "OWASP-GoatDroid-Project",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1614,
+            "stars": 1616,
             "topics": [
               "api",
               "apisecurity",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:34:47.548Z",
+    "last_updated": "2026-10-23T20:29:27.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 3,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1416,
+      "stars": 1417,
       "topics": [
         "awesome",
         "awesome-list",
