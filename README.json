@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T16:26:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-26T16:22:29Z",
+            "open_issues": 8,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14229,
+            "stars": 14243,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,8 +51,8 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T09:52:49Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-26T09:54:52Z",
+            "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
             "stars": 9438,
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3764,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -511,7 +511,7 @@
             "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "appsec",
               "ctf",
@@ -703,11 +703,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T05:15:03Z",
-            "open_issues": 438,
+            "last_commit": "2026-10-26T19:54:01Z",
+            "open_issues": 435,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6892,
+            "stars": 6893,
             "topics": [
               "ctf",
               "ctfd",
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5921,
+            "stars": 5922,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -841,7 +841,7 @@
             "open_issues": 0,
             "owner": "oliverwiegers",
             "repo": "pentest_lab",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -913,16 +913,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Pretexta is a social engineering simulation lab designed to help security professionals, educators, and organizations understand why social engineering attacks succeed.",
+            "description": "Most security tools protect systems. Pretexta protects people.",
             "homepage": null,
             "id": 1108741366,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-29T17:29:47Z",
+            "last_commit": "2026-10-26T18:29:25Z",
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "cybersecurity-awareness",
               "cybersecurity-education",
@@ -957,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-25T17:36:30Z",
+            "last_commit": "2026-10-26T09:43:16Z",
             "open_issues": 248,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13285,
+            "stars": 13287,
             "topics": [
               "android",
               "android-application",
@@ -1130,7 +1130,7 @@
             "open_issues": 32,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "api",
               "apisecurity",
@@ -1156,7 +1156,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1339,
+            "stars": 1341,
             "topics": [
               "api",
               "api-rest",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:41:41.651Z",
+    "last_updated": "2026-10-26T21:39:04.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 4,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1419,
+      "stars": 1420,
       "topics": [
         "awesome",
         "awesome-list",
