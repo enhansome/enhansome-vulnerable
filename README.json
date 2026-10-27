@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:22:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-26T21:54:46Z",
+            "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14243,
+            "stars": 14256,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 40,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9438,
+            "stars": 9440,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5864,
+            "stars": 5865,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3764,
+            "stars": 3763,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1531,
+            "stars": 1533,
             "topics": [
               "10",
               "application",
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -507,7 +507,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T20:42:11Z",
+            "last_commit": "2026-10-27T19:17:19Z",
             "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "sonuoffsec",
             "repo": "DVAP",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "agent-security",
               "ai-security",
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5922,
+            "stars": 5923,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -775,7 +775,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1370,
+            "stars": 1368,
             "topics": [
               "cloud",
               "virtualization"
@@ -918,7 +918,7 @@
             "id": 1108741366,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:29:25Z",
+            "last_commit": "2026-10-27T12:48:25Z",
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
@@ -961,7 +961,7 @@
             "open_issues": 248,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13287,
+            "stars": 13293,
             "topics": [
               "android",
               "android-application",
@@ -1002,7 +1002,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 699,
+            "stars": 700,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1127,10 +1127,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T03:43:56Z",
-            "open_issues": 32,
+            "open_issues": 35,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "api",
               "apisecurity",
@@ -1156,7 +1156,7 @@
             "open_issues": 4,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1341,
+            "stars": 1342,
             "topics": [
               "api",
               "api-rest",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:39:04.652Z",
+    "last_updated": "2026-10-27T21:21:50.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 4,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1420,
+      "stars": 1421,
       "topics": [
         "awesome",
         "awesome-list",
