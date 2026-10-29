@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-26T21:54:46Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14271,
+            "stars": 14290,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T09:54:52Z",
-            "open_issues": 41,
+            "last_commit": "2026-10-29T18:12:45Z",
+            "open_issues": 35,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9440,
+            "stars": 9442,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5868,
+            "stars": 5869,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3764,
+            "stars": 3766,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -703,11 +703,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T19:54:01Z",
-            "open_issues": 436,
+            "last_commit": "2026-10-29T16:29:45Z",
+            "open_issues": 435,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6893,
+            "stars": 6891,
             "topics": [
               "ctf",
               "ctfd",
@@ -918,7 +918,7 @@
             "id": 1108741366,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T12:48:25Z",
+            "last_commit": "2026-10-28T23:30:17Z",
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
@@ -1023,7 +1023,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "android",
               "bugbounty",
@@ -1061,7 +1061,7 @@
             "open_issues": 11,
             "owner": "nvisium-jack-mannino",
             "repo": "OWASP-GoatDroid-Project",
-            "stars": 257,
+            "stars": 256,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:41:39.170Z",
+    "last_updated": "2026-10-29T21:50:08.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,7 +1271,7 @@
       "open_issues": 4,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1423,
+      "stars": 1424,
       "topics": [
         "awesome",
         "awesome-list",
