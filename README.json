@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14356,
+            "stars": 14365,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9458,
+            "stars": 9460,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5868,
+            "stars": 5870,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3773,
+            "stars": 3777,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1536,
+            "stars": 1535,
             "topics": [
               "10",
               "application",
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -426,7 +426,7 @@
             "id": 38447681,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-11-03T20:31:37Z",
+            "last_commit": "2026-11-05T07:40:13Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
@@ -480,7 +480,7 @@
             "id": 382016768,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T15:46:44Z",
+            "last_commit": "2026-11-05T15:19:12Z",
             "open_issues": 20,
             "owner": "dynatrace-oss",
             "repo": "unguard",
@@ -511,7 +511,7 @@
             "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "appsec",
               "ctf",
@@ -957,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T13:15:09Z",
-            "open_issues": 250,
+            "last_commit": "2026-11-05T11:28:42Z",
+            "open_issues": 252,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13311,
+            "stars": 13314,
             "topics": [
               "android",
               "android-application",
@@ -1023,7 +1023,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "android",
               "bugbounty",
@@ -1130,7 +1130,7 @@
             "open_issues": 36,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1629,
+            "stars": 1628,
             "topics": [
               "api",
               "apisecurity",
@@ -1156,7 +1156,7 @@
             "open_issues": 5,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "api",
               "api-rest",
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:39:04.183Z",
+    "last_updated": "2026-11-05T22:40:56.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
