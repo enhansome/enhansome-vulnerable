@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14379,
+            "stars": 14390,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9462,
+            "stars": 9464,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5871,
+            "stars": 5872,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3776,
+            "stars": 3777,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "10",
               "application",
@@ -201,7 +201,7 @@
             "open_issues": 16,
             "owner": "appsecco",
             "repo": "dvna",
-            "stars": 780,
+            "stars": 781,
             "topics": [
               "dvna",
               "hack",
@@ -298,7 +298,7 @@
             "open_issues": 2,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "bugbounty",
               "labs",
@@ -704,10 +704,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T22:08:06Z",
-            "open_issues": 439,
+            "open_issues": 441,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6899,
+            "stars": 6900,
             "topics": [
               "ctf",
               "ctfd",
@@ -734,7 +734,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5937,
+            "stars": 5939,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -957,11 +957,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T11:28:42Z",
+            "last_commit": "2026-11-07T10:56:48Z",
             "open_issues": 252,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13319,
+            "stars": 13318,
             "topics": [
               "android",
               "android-application",
@@ -1156,7 +1156,7 @@
             "open_issues": 5,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1346,
+            "stars": 1348,
             "topics": [
               "api",
               "api-rest",
@@ -1182,7 +1182,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:08:46.297Z",
+    "last_updated": "2026-11-07T20:56:02.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
