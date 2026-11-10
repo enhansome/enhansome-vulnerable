@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T19:00:39Z",
+            "last_commit": "2026-11-09T22:07:08Z",
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14396,
+            "stars": 14405,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T09:56:00Z",
+            "last_commit": "2026-11-09T09:56:22Z",
             "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9467,
+            "stars": 9471,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5872,
+            "stars": 5871,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -97,7 +97,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3778,
+            "stars": 3779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -507,8 +507,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T13:45:12Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-09T21:34:07Z",
+            "open_issues": 13,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 56,
@@ -538,7 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP, and Agentic AI security.",
+            "description": "OWASP-aligned intentionally vulnerable platform for learning and testing AI, LLM, RAG, MCP and agentic AI security",
             "homepage": null,
             "id": 1259728164,
             "language": "TypeScript",
@@ -556,11 +556,14 @@
               "docker",
               "llm",
               "llm-security",
+              "mcp",
               "mcp-security",
               "ollama",
               "owasp",
               "prompt-injection",
-              "red-team"
+              "rag",
+              "red-team",
+              "vulnerable-app"
             ]
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -703,11 +706,11 @@
             "id": 28681142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T22:08:06Z",
-            "open_issues": 441,
+            "last_commit": "2026-11-09T20:47:55Z",
+            "open_issues": 437,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6901,
+            "stars": 6904,
             "topics": [
               "ctf",
               "ctfd",
@@ -734,7 +737,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5940,
+            "stars": 5946,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -775,7 +778,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1369,
+            "stars": 1370,
             "topics": [
               "cloud",
               "virtualization"
@@ -918,7 +921,7 @@
             "id": 1108741366,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T05:18:19Z",
+            "last_commit": "2026-11-09T09:22:41Z",
             "open_issues": 0,
             "owner": "dalpan",
             "repo": "Pretexta",
@@ -961,7 +964,7 @@
             "open_issues": 252,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13322,
+            "stars": 13325,
             "topics": [
               "android",
               "android-application",
@@ -1002,7 +1005,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 703,
+            "stars": 704,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1126,8 +1129,8 @@
             "id": 335756350,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T11:12:54Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-09T20:31:58Z",
+            "open_issues": 38,
             "owner": "OWASP",
             "repo": "crAPI",
             "stars": 1630,
@@ -1156,7 +1159,7 @@
             "open_issues": 5,
             "owner": "erev0s",
             "repo": "VAmPI",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "api",
               "api-rest",
@@ -1259,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:12:56.765Z",
+    "last_updated": "2026-11-10T00:42:43.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
