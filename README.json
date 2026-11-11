@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T22:07:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-11T08:12:18Z",
+            "open_issues": 3,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14415,
+            "stars": 14423,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 38,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9475,
+            "stars": 9477,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5871,
+            "stars": 5872,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -710,7 +710,7 @@
             "open_issues": 436,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6905,
+            "stars": 6907,
             "topics": [
               "ctf",
               "ctfd",
@@ -778,7 +778,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "cloud",
               "virtualization"
@@ -964,7 +964,7 @@
             "open_issues": 254,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13330,
+            "stars": 13333,
             "topics": [
               "android",
               "android-application",
@@ -1005,7 +1005,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 704,
+            "stars": 703,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1133,7 +1133,7 @@
             "open_issues": 38,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1633,
+            "stars": 1632,
             "topics": [
               "api",
               "apisecurity",
@@ -1181,7 +1181,7 @@
             "id": 253220810,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T21:40:41Z",
+            "last_commit": "2026-11-11T00:57:44Z",
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws-node",
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:23:37.848Z",
+    "last_updated": "2026-11-11T23:28:52.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1271,10 +1271,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-06-22T17:46:43Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1428,
+      "stars": 1431,
       "topics": [
         "awesome",
         "awesome-list",
