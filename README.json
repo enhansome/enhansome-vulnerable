@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14447,
+            "stars": 14457,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -51,11 +51,11 @@
             "id": 31771754,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T09:56:22Z",
-            "open_issues": 38,
+            "last_commit": "2026-11-16T09:55:42Z",
+            "open_issues": 39,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9484,
+            "stars": 9487,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -277,7 +277,7 @@
             "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -346,7 +346,7 @@
             "open_issues": 42,
             "owner": "Hackademic",
             "repo": "hackademic",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -707,10 +707,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T07:35:32Z",
-            "open_issues": 439,
+            "open_issues": 440,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6911,
+            "stars": 6913,
             "topics": [
               "ctf",
               "ctfd",
@@ -737,7 +737,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5956,
+            "stars": 5958,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -778,7 +778,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1372,
+            "stars": 1373,
             "topics": [
               "cloud",
               "virtualization"
@@ -823,7 +823,7 @@
             "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -961,10 +961,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-10T11:23:38Z",
-            "open_issues": 257,
+            "open_issues": 258,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13347,
+            "stars": 13350,
             "topics": [
               "android",
               "android-application",
@@ -1005,7 +1005,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 703,
+            "stars": 704,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 2,
             "owner": "t0thkr1s",
             "repo": "allsafe-android",
-            "stars": 447,
+            "stars": 449,
             "topics": [
               "android",
               "bugbounty",
@@ -1133,7 +1133,7 @@
             "open_issues": 38,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1634,
+            "stars": 1638,
             "topics": [
               "api",
               "apisecurity",
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:51:26.439Z",
+    "last_updated": "2026-11-17T00:49:39.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
