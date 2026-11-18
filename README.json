@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14465,
+            "stars": 14477,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -55,7 +55,7 @@
             "open_issues": 39,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9488,
+            "stars": 9489,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5876,
+            "stars": 5877,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -507,11 +507,11 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:25:04Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-18T22:20:20Z",
+            "open_issues": 12,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 56,
+            "stars": 59,
             "topics": [
               "appsec",
               "ctf",
@@ -707,7 +707,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T07:35:32Z",
-            "open_issues": 440,
+            "open_issues": 439,
             "owner": "CTFd",
             "repo": "CTFd",
             "stars": 6917,
@@ -737,7 +737,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5960,
+            "stars": 5961,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -964,7 +964,7 @@
             "open_issues": 258,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13353,
+            "stars": 13359,
             "topics": [
               "android",
               "android-application",
@@ -1005,7 +1005,7 @@
             "open_issues": 10,
             "owner": "OWASP",
             "repo": "MASTG-Hacking-Playground",
-            "stars": 705,
+            "stars": 706,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -1133,7 +1133,7 @@
             "open_issues": 38,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1641,
+            "stars": 1640,
             "topics": [
               "api",
               "apisecurity",
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:51:45.528Z",
+    "last_updated": "2026-11-18T23:24:40.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
