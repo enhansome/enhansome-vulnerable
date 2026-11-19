@@ -15,11 +15,11 @@
             "id": 24233689,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:12:18Z",
+            "last_commit": "2026-11-19T22:40:37Z",
             "open_issues": 4,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14477,
+            "stars": 14484,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -76,7 +76,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5877,
+            "stars": 5876,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -93,11 +93,11 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T20:57:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-19T15:16:01Z",
+            "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3788,
+            "stars": 3789,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -118,7 +118,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "application-security",
               "knowledge",
@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "webpwnized",
             "repo": "mutillidae",
-            "stars": 1536,
+            "stars": 1535,
             "topics": [
               "10",
               "application",
@@ -180,7 +180,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1039,
+            "stars": 1038,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -201,7 +201,7 @@
             "open_issues": 16,
             "owner": "appsecco",
             "repo": "dvna",
-            "stars": 783,
+            "stars": 782,
             "topics": [
               "dvna",
               "hack",
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "Yavuzlar",
             "repo": "VulnLab",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "web-security",
               "web-security-lab"
@@ -277,7 +277,7 @@
             "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -298,7 +298,7 @@
             "open_issues": 2,
             "owner": "tegal1337",
             "repo": "0l4bs",
-            "stars": 358,
+            "stars": 357,
             "topics": [
               "bugbounty",
               "labs",
@@ -346,7 +346,7 @@
             "open_issues": 42,
             "owner": "Hackademic",
             "repo": "hackademic",
-            "stars": 326,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -707,10 +707,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T07:35:32Z",
-            "open_issues": 439,
+            "open_issues": 438,
             "owner": "CTFd",
             "repo": "CTFd",
-            "stars": 6917,
+            "stars": 6918,
             "topics": [
               "ctf",
               "ctfd",
@@ -737,7 +737,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5961,
+            "stars": 5960,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -778,7 +778,7 @@
             "open_issues": 42,
             "owner": "TritonDataCenter",
             "repo": "triton",
-            "stars": 1374,
+            "stars": 1373,
             "topics": [
               "cloud",
               "virtualization"
@@ -802,7 +802,7 @@
             "open_issues": 29,
             "owner": "Nakiami",
             "repo": "mellivora",
-            "stars": 452,
+            "stars": 451,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -823,7 +823,7 @@
             "open_issues": 1,
             "owner": "SpiderLabs",
             "repo": "MCIR",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-29T00:59:00.811Z"
@@ -893,7 +893,7 @@
             "open_issues": 0,
             "owner": "rootxjs",
             "repo": "grpc-goat",
-            "stars": 56,
+            "stars": 55,
             "topics": [
               "grpc",
               "grpc-go",
@@ -964,7 +964,7 @@
             "open_issues": 258,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13359,
+            "stars": 13362,
             "topics": [
               "android",
               "android-application",
@@ -1133,7 +1133,7 @@
             "open_issues": 38,
             "owner": "OWASP",
             "repo": "crAPI",
-            "stars": 1640,
+            "stars": 1641,
             "topics": [
               "api",
               "apisecurity",
@@ -1206,7 +1206,7 @@
             "open_issues": 18,
             "owner": "Checkmarx",
             "repo": "capital",
-            "stars": 339,
+            "stars": 338,
             "topics": [
               "apisecurity",
               "ctf",
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:24:40.077Z",
+    "last_updated": "2026-11-19T23:36:05.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.",
@@ -1274,7 +1274,7 @@
       "open_issues": 5,
       "owner": "kaiiyer",
       "repo": "awesome-vulnerable",
-      "stars": 1433,
+      "stars": 1432,
       "topics": [
         "awesome",
         "awesome-list",
